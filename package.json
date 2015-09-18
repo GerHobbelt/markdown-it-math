@@ -33,7 +33,7 @@
     "url": "https://github.com/runarberg/markdown-it-math/issues"
   },
   "homepage": "https://github.com/runarberg/markdown-it-math",
-  "dependencies": {
+  "optionalDependencies": {
     "ascii2mathml": "^0.5.2"
   },
   "devDependencies": {
